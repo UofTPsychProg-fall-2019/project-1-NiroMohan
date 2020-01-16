@@ -1,0 +1,5 @@
+﻿word,colour,congruent,corrAns,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,InstruText.started,InstruText.stopped,Target.started,Target.stopped,response.keys,response.corr,response.rt,response.started,response.stopped,image.started,image.stopped,participant,session,date,expName,psychopyVersion,frameRate,
+yellow,yellow,1,up,0,0,0,9,29.485741704003885,None,31.386546605965123,None,left,0,1.0934331429889426,31.386546605965123,None,32.66895672399551,None,jjjj,001,2020_Jan_15_1837,stroopExperiment,3.2.4,60.46881255747357,
+red,green,0,down,0,1,1,2,,,34.00327536393888,None,down,1,0.6865425920113921,34.00327536393888,None,34.73598523391411,None,jjjj,001,2020_Jan_15_1837,stroopExperiment,3.2.4,60.46881255747357,
+red,red,1,left,0,2,2,0,,,36.22028003400192,None,right,0,0.314473505015485,36.22028003400192,None,36.58681760402396,None,jjjj,001,2020_Jan_15_1837,stroopExperiment,3.2.4,60.46881255747357,
+green,green,1,down,0,3,3,7,,,38.06967870902736,None,up,0,0.3780190299730748,38.06967870902736,None,38.505523670930415,None,jjjj,001,2020_Jan_15_1837,stroopExperiment,3.2.4,60.46881255747357,

@@ -1,0 +1,44 @@
+27.3471 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x12f8b4b70>, gamma=None, gammaErrorPolicy='raise', kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x12f801a90>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1440,  900]), stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+27.3474 	EXP 	window1: recordFrameIntervals = False
+27.5202 	EXP 	window1: recordFrameIntervals = True
+27.7199 	EXP 	window1: recordFrameIntervals = False
+29.1591 	EXP 	Created InstruText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='InstruText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+29.1885 	EXP 	Created Target = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='Target', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+29.3132 	EXP 	Created image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128, units='height', win=Window(...))
+29.3522 	EXP 	InstruText: autoDraw = True
+33.7014 	DATA 	Keypress: space
+33.9971 	EXP 	Imported conditions.xlsx as conditions, 10 conditions, 4 params
+34.0139 	EXP 	Created sequence: random, trialTypes=10, nReps=5, seed=None
+34.0147 	EXP 	New trial (rep=0, index=0): OrderedDict([('word', 'red'), ('colour', 'yellow'), ('congruent', 0), ('corrAns', 'up')])
+34.0376 	EXP 	InstruText: autoDraw = False
+34.0376 	EXP 	Target: color = 'yellow (named)'
+34.0376 	EXP 	Target: text = 'red'
+34.5206 	EXP 	Target: autoDraw = True
+35.8921 	DATA 	Keypress: left
+35.9040 	EXP 	Target: autoDraw = False
+35.9040 	EXP 	image: image = 'incorrect.jpeg'
+35.9040 	EXP 	image: autoDraw = True
+36.6729 	EXP 	New trial (rep=0, index=1): OrderedDict([('word', 'blue'), ('colour', 'blue'), ('congruent', 1), ('corrAns', 'right')])
+36.6883 	EXP 	image: autoDraw = False
+36.6883 	EXP 	Target: color = 'blue (named)'
+36.6883 	EXP 	Target: text = 'blue'
+37.1878 	EXP 	Target: autoDraw = True
+37.7695 	DATA 	Keypress: down
+37.7885 	EXP 	Target: autoDraw = False
+37.7885 	EXP 	image: image = 'incorrect.jpeg'
+37.7885 	EXP 	image: autoDraw = True
+38.7393 	EXP 	New trial (rep=0, index=2): OrderedDict([('word', 'yellow'), ('colour', 'yellow'), ('congruent', 1), ('corrAns', 'up')])
+38.7710 	EXP 	image: autoDraw = False
+38.7710 	EXP 	Target: color = 'yellow (named)'
+38.7710 	EXP 	Target: text = 'yellow'
+39.2544 	EXP 	Target: autoDraw = True
+39.7464 	DATA 	Keypress: right
+39.7544 	EXP 	Target: autoDraw = False
+39.7544 	EXP 	image: image = 'incorrect.jpeg'
+39.7544 	EXP 	image: autoDraw = True
+40.7059 	EXP 	New trial (rep=0, index=3): OrderedDict([('word', 'blue'), ('colour', 'yellow'), ('congruent', 0), ('corrAns', 'up')])
+40.7202 	EXP 	image: autoDraw = False
+40.7202 	EXP 	Target: color = 'yellow (named)'
+40.7202 	EXP 	Target: text = 'blue'
+40.9925 	DATA 	Keypress: escape
+41.4554 	EXP 	window1: mouseVisible = True
